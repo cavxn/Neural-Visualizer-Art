@@ -1,0 +1,8 @@
+__pycache__/
+*.jpg
+*.png
+*.gif
+.DS_Store
+.venv/
+.idea/
+*.mp4
